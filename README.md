@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm Jeffry Susilo an experienced **Android Developer** , AI enthusiast, and a passionate **Game Developer** in free time. 🚀  
 
-<!--
-**jeffrysusilo/jeffrysusilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🌟 Android Developer who has made many applications.  
+- 🎮 Game Developing enthusiast who loves creating interactive experiences.
+- 🤖 Currently working on AI project for final assignment
 
-Here are some ideas to get you started:
+## Skills  
+- 📱 Android Development (Kotlin, Java)
+- Other Language : Python, C#, C++  
+- 🔧 Tools: Android Studio, Firebase, Retrofit, Room, Git, mediapipe, YOLO, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrysusilo&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jeffrysusilo&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrysusilo&layout=compact&theme=radical)  
