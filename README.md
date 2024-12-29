@@ -7,7 +7,7 @@ I'm Jeffry Susilo an experienced **Android Developer** , AI enthusiast, and a pa
 - 🤖 Currently working on AI project for final assignment
 
 ## Skills  
-- 📱 Android Development (Kotlin, Java)
+- 📱 Android Development (Kotlin, Java), AI
 - Other Language : Python, C#, C++  
 - 🔧 Tools: Android Studio, Firebase, Retrofit, Room, Git, mediapipe, YOLO, Unity
 
