@@ -1,14 +1,14 @@
 # Hi there! 👋  
-I'm Jeffry Susilo an experienced **Android Developer** , AI enthusiast, and a passionate **Game Developer** in free time. 🚀  
+I'm Jeffry Susilo an experienced Software Developer , AI enthusiast, and a passionate **Game Developer** in free time. 🚀  
 
 ## About Me  
-- 🌟 Android Developer who has made many applications.  
+- 🌟 Software Developer who has made many applications (mobile,web,desktop).  
 - 🎮 Game Developing enthusiast who loves creating interactive experiences.
 - 🤖 Currently working on AI project for final assignment
 
 ## Skills  
-- 📱 Android Development (Kotlin, Java), AI, and Game Development
-- Other Language : Python, C#, C++  
+- Software Development AI, and Game Development
+- Language : Python, C#, C++, C, JS, Java, PHP  
 - 🔧 Tools: Android Studio, Firebase, Retrofit, Room, Git, mediapipe, YOLO, Unity
 
   ## GitHub Stats  
