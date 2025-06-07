@@ -4,7 +4,7 @@ I'm Jeffry Susilo an experienced Software Developer , AI enthusiast, and a passi
 ## About Me  
 - 🌟 Software Developer who has made many applications (mobile,web,desktop).  
 - 🎮 Game Developing enthusiast who loves creating interactive experiences.
-- 🤖 Currently working on AI project for final assignment
+- 🤖 Currently working on AI project 
 
 ## Skills  
 - Software Development AI, and Game Development
