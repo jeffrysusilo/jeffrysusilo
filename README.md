@@ -7,9 +7,9 @@ I'm Jeffry Susilo an experienced Software Developer , AI enthusiast, and a passi
 - 🤖 Currently working on AI project 
 
 ## Skills  
-- Software Development AI, and Game Development
+- Software Development ,AI, and Game Development
 - Language : Python, C#, C++, C, JS, Java, PHP  
-- 🔧 Tools: Android Studio, Firebase, Retrofit, Room, Git, mediapipe, YOLO, Unity
+
 
   ## GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrysusilo&show_icons=true&theme=radical)  
