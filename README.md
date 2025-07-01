@@ -13,5 +13,5 @@ I'm Jeffry Susilo an experienced Software Developer , AI enthusiast, and a passi
 
   ## GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrysusilo&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=jeffrysusilo&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jeffrysusilo&theme=radical&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrysusilo&layout=compact&theme=radical)  
